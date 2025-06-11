@@ -71,8 +71,8 @@ Si introduces una operación inválida (como 8 / 8 /), aparecerá el mensaje Err
 
 ✅ Ejemplo de suma
 11 + 9 = 20
-![Suma 1](screenshots/Suma_1.png)
-![Suma 2](screenshots/Suma_2.png)
+![Suma 1](screenshots/suma_1.png)  
+![Suma 2](screenshots/suma_2.png)  
 
 🔄 Ejemplo de operación encadenada
 8 + 2 * 2 = 12
