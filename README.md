@@ -1,121 +1,112 @@
-﻿<i class="fa-solid fa-calculator"></i> Calculadora WPF
-Una calculadora básica desarrollada con Windows Presentation Foundation (WPF).
+﻿# 🧮 Calculadora WPF
 
-<i class="fas fa-bookmark"></i> Tabla de contenidos
-Calculadora WPF
+Una calculadora básica desarrollada con **Windows Presentation Foundation (WPF)** como proyecto final del módulo **M0488 - Desarrollo de Interfaces**.
 
-Tabla de contenidos
+---
 
-Requisitos
+## 📑 Índice
 
-Guía de instalación
+- [🧰 Requisitos del Sistema](#-requisitos-del-sistema)
+- [✨ Funcionalidades Principales](#-funcionalidades-principales)
+- [🚀 Guía de Instalación](#-guía-de-instalación)
+- [🧭 Guía de Uso Paso a Paso](#-guía-de-uso-paso-a-paso)
+- [🖼️ Ejemplos y Capturas](#-ejemplos-y-capturas)
+- [🎓 Contexto Académico](#-contexto-académico)
+- [📜 Licencia y Autoría](#-licencia-y-autoría)
+- [🧠 Conclusiones](#-conclusiones)
 
-Características
+---
 
-Prioridad de operadores
+## 🧰 Requisitos del Sistema
 
-Operaciones básicas
+- 💻 Windows 10/11  
+- ⚙️ .NET 8.0 Runtime  
+- 🧩 Visual Studio 2022  
 
-Funcionalidades adicionales
+---
 
-Uso
+## ✨ Funcionalidades Principales
 
-Ejemplos
+- ✅ Operaciones básicas: suma, resta, multiplicación y división  
+- 🔄 Evaluación con prioridad de operadores (`*` y `/` antes de `+` y `-`)  
+- 🔗 Operaciones encadenadas  
+- 🧼 Borrado de entrada (`C`)  
+- ❌ Gestión de errores con mensajes claros  
+- 🎨 Diseño accesible, intuitivo y adaptable a futuras mejoras  
 
-Operación de suma
+---
 
-Operación encadenada
+## 🚀 Guía de Instalación
 
-Operación con error
+ **Clona este repositorio**:
 
-Contexto académico
+   ```bash
+   git clone https://github.com/Dvnsp/CALCULADORA.git
+Abre el proyecto en Visual Studio 2022:
+Archivo ➔ Abrir ➔ Proyecto/Solución ➔ PAC4-Calculadora.sln
 
-Licencia
+Compila la solución:
+Compilar ➔ Compilar solución (Ctrl + Shift + B)
 
-Conclusiones y reflexiones sobre el proyecto
+Ejecuta la aplicación:
+Pulsa F5 o el botón verde de inicio.
 
-<i class="fa-solid fa-plug"></i> Requisitos
-<i class="fab fa-windows"></i> Windows 10/11
+🧭 Guía de Uso Paso a Paso
+Haz clic en los números (0–9) para escribir tu operación.
 
-<i class="fas fa-code"></i> .NET 8.0 Runtime
+Selecciona un operador: +, -, * o /.
 
-<i class="fas fa-laptop-code"></i> Visual Studio 2022 (para el desarrollo)
+Pulsa = para ver el resultado.
 
-<i class="fa-solid fa-list-check"></i> Características
-<i class="fa-solid fa-scale-balanced"></i> Prioridad de operadores
-Evalúa * y / antes que + y -
-Ejemplo: 5 + 3 * 2 = 11
+Pulsa C para limpiar la pantalla y comenzar una nueva operación.
 
-<i class="fa-solid fa-plus"></i> Operaciones básicas
-<i class="fas fa-plus"></i> Suma
+✔️ El sistema respeta la prioridad de operadores:
+Ejemplo: 4 + 2 * 2 se evalúa como 8.
 
-<i class="fas fa-minus"></i> Resta
+✔️ Manejo de errores:
+Si introduces una operación inválida (como 8 / 8 /), aparecerá el mensaje Error.
 
-<i class="fas fa-times"></i> Multiplicación
+🖼️ Ejemplos y Capturas
+📌 Las imágenes se encuentran en la carpeta screenshots/.
 
-<i class="fas fa-divide"></i> División
+✅ Ejemplo de suma
+11 + 9 = 20
+![Suma 1](screenshots/Suma_1.png)
+![Suma 2](screenshots/Suma_2.png)
 
-<i class="fas fa-star"></i> Funcionalidades adicionales
-<i class="fas fa-undo"></i> Borrar (C)
+🔄 Ejemplo de operación encadenada
+8 + 2 * 2 = 12
+![Cadena 1](screenshots/Cadena_1.png)
+![Cadena 2](screenshots/Cadena_2.png)
 
-<i class="fas fa-exclamation-triangle"></i> Gestión de errores
+❌ Ejemplo con error
+3 / 3 / → Error
+![Error 1](screenshots/Error_1.png)
+![Error 2](screenshots/Error_2.png)
 
-<i class="fas fa-link"></i> Operaciones encadenadas
+🎓 Contexto Académico
+Este proyecto ha sido desarrollado como práctica de evaluación en el módulo M0488 - Desarrollo de Interfaces.
+Se han trabajado las siguientes competencias:
 
-<i class="fas fa-book-open"></i> Uso
-Operaciones básicas:
-Haz clic en los botones numéricos (0–9), selecciona el operador (+, -, *, /) y pulsa = para ver el resultado.
+🎨 Diseño de interfaces gráficas usando XAML
 
-Reinicio del cálculo:
-Pulsa C para borrar la pantalla.
+🔄 Arquitectura basada en eventos
 
-Operaciones encadenadas:
-Ejemplo: 5 + 3 * 2 se evalúa correctamente siguiendo la prioridad.
+🧠 Lógica funcional de una calculadora
 
-Gestión de errores:
-Las entradas incorrectas muestran Error en la pantalla.
+♿ Accesibilidad y usabilidad
 
-<i class="fas fa-images"></i> Ejemplos
-Operación de suma
-Ejemplo: 5 + 3 = 8
-
-<p> <img src="screenshots/Suma_1.png" width="30%" alt="Ejemplo de suma 1"/> <img src="screenshots/Suma_2.png" width="30%" alt="Ejemplo de suma 2"/> </p>
-Operación encadenada
-Ejemplo: 5 + 3 × 2 = 11
-
-<p> <img src="screenshots/Encadenat_1.png" width="30%" alt="Ejemplo encadenado 1"/> <img src="screenshots/Encadenat_2.png" width="30%" alt="Ejemplo encadenado 2"/> </p>
-Operación con error
-Ejemplo: 6 / 6 / → Error
-
-<p> <img src="screenshots/Error_1.png" width="30%" alt="Entrada inválida"/> <img src="screenshots/Error_2.png" width="30%" alt="Pantalla de error"/> </p>
-<i class="fa-solid fa-graduation-cap"></i> Contexto académico
-Este proyecto se desarrolló para poner en práctica:
-
-<i class="fas fa-laptop-code"></i> Maquetación con WPF/XAML
-
-<i class="fas fa-project-diagram"></i> Arquitectura de eventos
-
-<i class="fas fa-palette"></i> Principios de UI/UX
-
-<i class="fas fa-cogs"></i> Lógica funcional de una calculadora
-
-<i class="fas fa-balance-scale"></i> Licencia
-Licencia MIT
-
+📜 Licencia y Autoría
+Licencia: MIT
 Autor: Duván Vargas
 
-Este proyecto ha permitido desarrollar una calculadora funcional y visualmente cuidada utilizando la tecnología WPF (Windows Presentation Foundation), reforzando conocimientos clave en el diseño de interfaces gráficas modernas y usables. Durante su creación se aplicaron principios de diseño limpio, disposición lógica de controles y una estética personalizable que mejora la experiencia de usuario.
+🧠 Conclusiones
+Esta calculadora es un ejemplo funcional de aplicación WPF con enfoque en buenas prácticas de desarrollo de interfaces. Se ha logrado:
 
-Se trabajó especialmente en:
+✅ Separar la lógica de presentación (patrón MVVM simplificado)
 
-La organización visual de los botones, buscando una distribución intuitiva y profesional.
+✅ Diseñar una interfaz limpia, moderna y comprensible
 
-El uso de estilos personalizados para mejorar la accesibilidad y dar un aspecto moderno (bordes marcados, sombras y colores coherentes).
+✅ Implementar una lógica sólida, fácilmente ampliable
 
-La implementación de la lógica básica de una calculadora: operaciones aritméticas, control de errores, uso de operadores encadenados y manejo correcto del punto decimal.
-
-Además, se adaptó el código para permitir una fácil extensión futura, como la posible inclusión de operaciones más avanzadas (porcentajes, raíces cuadradas, historial, etc.).
-
-En resumen, la calculadora no solo cumple su propósito funcional, sino que también demuestra el dominio de conceptos fundamentales de desarrollo de interfaces en C# con WPF, sirviendo como una base sólida para futuros proyectos de software con interfaz gráfica.
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+🔧 Este proyecto puede servir como base para futuras aplicaciones más avanzadas, como calculadoras científicas, educativas o con historial de operaciones.
