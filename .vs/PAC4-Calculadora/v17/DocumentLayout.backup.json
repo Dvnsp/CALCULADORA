@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|c:\\users\\duvan\\onedrive - universitat de vic\\calculadora\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|c:\\users\\duvan\\onedrive - universitat de vic\\calculadora\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|c:\\users\\duvan\\onedrive - universitat de vic\\calculadora\\screenshots\\cadena_1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|solutionrelative:screenshots\\cadena_1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|c:\\users\\duvan\\onedrive - universitat de vic\\calculadora\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|c:\\users\\duvan\\onedrive - universitat de vic\\calculadora\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Error_1.png - PNG [400x595, 32 bits, PNG]",
               "DocumentMoniker": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\screenshots\\Error_1.png",
               "RelativeDocumentMoniker": "screenshots\\Error_1.png",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Cadena_1.png - PNG [395x597, 32 bits, PNG]",
               "DocumentMoniker": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\screenshots\\Cadena_1.png",
               "RelativeDocumentMoniker": "screenshots\\Cadena_1.png",
@@ -149,13 +149,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\README.md",
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAowEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowE8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-06-11T13:31:41.521Z",
               "EditorCaption": ""
