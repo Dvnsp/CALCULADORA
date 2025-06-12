@@ -71,18 +71,18 @@ Si introduces una operación inválida (como 8 / 8 /), aparecerá el mensaje Err
 
 ✅ Ejemplo de suma  
 11 + 9 = 20  
-![Suma 1](screenshots/suma_1.png)  
-![Suma 2](screenshots/suma_2.png)  
+![Suma 1](screenshots/Suma_1.png)  
+![Suma 2](screenshots/Suma_2.png)  
 
 🔄 Ejemplo de operación encadenada  
 8 + 2 * 2 = 12  
-![Cadena 1](screenshots/cadena_1.png)  
-![Cadena 2](screenshots/cadena_2.png)  
+![Cadena 1](screenshots/Cadena_1.png)  
+![Cadena 2](screenshots/Cadena_2.png)  
 
 ❌ Ejemplo con error  
 3 / 3 / → Error  
-![Error 1](screenshots/error_1.png)  
-![Error 2](screenshots/error_2.png)  
+![Error 1](screenshots/Error_1.png)  
+![Error 2](screenshots/Error_2.png)  
 
 🎓 Contexto Académico
 Este proyecto ha sido desarrollado como práctica de evaluación en el módulo M0488 - Desarrollo de Interfaces.
