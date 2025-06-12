@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|c:\\users\\duvan\\onedrive - universitat de vic\\calculadora\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|c:\\users\\duvan\\onedrive - universitat de vic\\calculadora\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|c:\\users\\duvan\\onedrive - universitat de vic\\calculadora\\screenshots\\error_1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|solutionrelative:screenshots\\error_1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|c:\\users\\duvan\\onedrive - universitat de vic\\calculadora\\screenshots\\cadena_1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|solutionrelative:screenshots\\cadena_1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|c:\\users\\duvan\\onedrive - universitat de vic\\calculadora\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|c:\\users\\duvan\\onedrive - universitat de vic\\calculadora\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|c:\\users\\duvan\\onedrive - universitat de vic\\calculadora\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|c:\\users\\duvan\\onedrive - universitat de vic\\calculadora\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|c:\\users\\duvan\\onedrive - universitat de vic\\calculadora\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8556ABB8-EE34-4E8A-BBBE-58B666EC1D65}|PAC4-Calculadora.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-12T08:17:44.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error_1.png - PNG [400x595, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\screenshots\\Error_1.png",
+              "RelativeDocumentMoniker": "screenshots\\Error_1.png",
+              "ToolTip": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\screenshots\\Error_1.png - PNG [400x595, 32 bits, PNG]",
+              "RelativeToolTip": "screenshots\\Error_1.png - PNG [400x595, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-12T08:10:28.754Z",
+              "EditorCaption": " - PNG [400x595, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cadena_1.png - PNG [395x597, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\screenshots\\Cadena_1.png",
+              "RelativeDocumentMoniker": "screenshots\\Cadena_1.png",
+              "ToolTip": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\screenshots\\Cadena_1.png - PNG [395x597, 32 bits, PNG]",
+              "RelativeToolTip": "screenshots\\Cadena_1.png - PNG [395x597, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-12T08:10:22.233Z",
+              "EditorCaption": " - PNG [395x597, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:48:34.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T07:48:07.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:45:24.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:45:18.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T07:45:12.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowE8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-11T13:31:41.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

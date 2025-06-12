@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OI7k+ZHnevY=",
+  "dgSpecHash": "zY2RoqHqcz0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\duvan\\Source\\Repos\\PAC4-Calculadora\\PAC4-Calculadora.csproj",
+  "projectFilePath": "C:\\Users\\duvan\\OneDrive - Universitat de Vic\\CALCULADORA\\PAC4-Calculadora.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duvan\\.nuget\\packages\\doxygen\\1.8.14\\doxygen.1.8.14.nupkg.sha512"
   ],

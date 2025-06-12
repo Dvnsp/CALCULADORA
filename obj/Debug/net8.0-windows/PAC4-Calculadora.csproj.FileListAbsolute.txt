@@ -19,3 +19,24 @@ C:\Users\duvan\Source\Repos\PAC4-Calculadora\obj\Debug\net8.0-windows\refint\PAC
 C:\Users\duvan\Source\Repos\PAC4-Calculadora\obj\Debug\net8.0-windows\PAC4-Calculadora.pdb
 C:\Users\duvan\Source\Repos\PAC4-Calculadora\obj\Debug\net8.0-windows\PAC4-Calculadora.genruntimeconfig.cache
 C:\Users\duvan\Source\Repos\PAC4-Calculadora\obj\Debug\net8.0-windows\ref\PAC4-Calculadora.dll
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\bin\Debug\net8.0-windows\PAC4-Calculadora.exe
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\bin\Debug\net8.0-windows\PAC4-CalculadoraDoc.xml
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\bin\Debug\net8.0-windows\PAC4-Calculadora.deps.json
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\bin\Debug\net8.0-windows\PAC4-Calculadora.runtimeconfig.json
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\bin\Debug\net8.0-windows\PAC4-Calculadora.dll
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\bin\Debug\net8.0-windows\PAC4-Calculadora.pdb
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\PAC4-Calculadora_MarkupCompile.cache
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\PAC4-Calculadora.g.resources
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\PAC4-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\PAC4-Calculadora.AssemblyInfoInputs.cache
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\PAC4-Calculadora.AssemblyInfo.cs
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\PAC4-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\PAC4-Calculadora.sourcelink.json
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\PAC4-Calculadora.dll
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\refint\PAC4-Calculadora.dll
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\PAC4-Calculadora.pdb
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\PAC4-Calculadora.genruntimeconfig.cache
+C:\Users\duvan\OneDrive - Universitat de Vic\CALCULADORA\obj\Debug\net8.0-windows\ref\PAC4-Calculadora.dll
